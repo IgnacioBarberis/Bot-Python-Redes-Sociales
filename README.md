@@ -3,6 +3,7 @@
 ## Descripción
 Este es un bot simple en Python que publica mensajes automáticos en X (Twitter). Ideal para automatizar posts en redes sociales para negocios o uso personal.
 
+"Bilingüe: Soporta mensajes en inglés y español."
 ## Requisitos
 - Python 3.x
 - Bibliotecas: `tweepy` y `python-dotenv` (instala con `pip3 install tweepy python-dotenv`)
